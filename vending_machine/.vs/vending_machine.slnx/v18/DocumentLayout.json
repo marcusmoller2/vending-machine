@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marcus\\Desktop\\vending_machine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{237F1258-7B66-49A8-90BB-36F0E3346155}|vending_machine\\vending_machine.csproj|c:\\users\\marcus\\desktop\\vending_machine\\vending_machine\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237F1258-7B66-49A8-90BB-36F0E3346155}|vending_machine\\vending_machine.csproj|solutionrelative:vending_machine\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237F1258-7B66-49A8-90BB-36F0E3346155}|vending_machine\\vending_machine.csproj|c:\\users\\marcus\\desktop\\vending_machine\\vending_machine\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237F1258-7B66-49A8-90BB-36F0E3346155}|vending_machine\\vending_machine.csproj|solutionrelative:vending_machine\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237F1258-7B66-49A8-90BB-36F0E3346155}|vending_machine\\vending_machine.csproj|c:\\users\\marcus\\desktop\\vending_machine\\vending_machine\\snack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237F1258-7B66-49A8-90BB-36F0E3346155}|vending_machine\\vending_machine.csproj|solutionrelative:vending_machine\\snack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237F1258-7B66-49A8-90BB-36F0E3346155}|vending_machine\\vending_machine.csproj|c:\\users\\marcus\\desktop\\vending_machine\\vending_machine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237F1258-7B66-49A8-90BB-36F0E3346155}|vending_machine\\vending_machine.csproj|solutionrelative:vending_machine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237F1258-7B66-49A8-90BB-36F0E3346155}|vending_machine\\vending_machine.csproj|c:\\users\\marcus\\desktop\\vending_machine\\vending_machine\\vendingmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237F1258-7B66-49A8-90BB-36F0E3346155}|vending_machine\\vending_machine.csproj|solutionrelative:vending_machine\\vendingmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237F1258-7B66-49A8-90BB-36F0E3346155}|vending_machine\\vending_machine.csproj|c:\\users\\marcus\\desktop\\vending_machine\\vending_machine\\toy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237F1258-7B66-49A8-90BB-36F0E3346155}|vending_machine\\vending_machine.csproj|solutionrelative:vending_machine\\toy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VendingMachine.cs",
+              "DocumentMoniker": "C:\\Users\\Marcus\\Desktop\\vending_machine\\vending_machine\\VendingMachine.cs",
+              "RelativeDocumentMoniker": "vending_machine\\VendingMachine.cs",
+              "ToolTip": "C:\\Users\\Marcus\\Desktop\\vending_machine\\vending_machine\\VendingMachine.cs",
+              "RelativeToolTip": "vending_machine\\VendingMachine.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAewEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T18:30:46.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Toy.cs",
+              "DocumentMoniker": "C:\\Users\\Marcus\\Desktop\\vending_machine\\vending_machine\\Toy.cs",
+              "RelativeDocumentMoniker": "vending_machine\\Toy.cs",
+              "ToolTip": "C:\\Users\\Marcus\\Desktop\\vending_machine\\vending_machine\\Toy.cs",
+              "RelativeToolTip": "vending_machine\\Toy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T18:30:14.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Snack.cs",
+              "DocumentMoniker": "C:\\Users\\Marcus\\Desktop\\vending_machine\\vending_machine\\Snack.cs",
+              "RelativeDocumentMoniker": "vending_machine\\Snack.cs",
+              "ToolTip": "C:\\Users\\Marcus\\Desktop\\vending_machine\\vending_machine\\Snack.cs",
+              "RelativeToolTip": "vending_machine\\Snack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T18:30:01.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Drink.cs",
+              "DocumentMoniker": "C:\\Users\\Marcus\\Desktop\\vending_machine\\vending_machine\\Drink.cs",
+              "RelativeDocumentMoniker": "vending_machine\\Drink.cs",
+              "ToolTip": "C:\\Users\\Marcus\\Desktop\\vending_machine\\vending_machine\\Drink.cs",
+              "RelativeToolTip": "vending_machine\\Drink.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T18:29:43.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Marcus\\Desktop\\vending_machine\\vending_machine\\Product.cs",
+              "RelativeDocumentMoniker": "vending_machine\\Product.cs",
+              "ToolTip": "C:\\Users\\Marcus\\Desktop\\vending_machine\\vending_machine\\Product.cs",
+              "RelativeToolTip": "vending_machine\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T18:28:32.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marcus\\Desktop\\vending_machine\\vending_machine\\Program.cs",
+              "RelativeDocumentMoniker": "vending_machine\\Program.cs",
+              "ToolTip": "C:\\Users\\Marcus\\Desktop\\vending_machine\\vending_machine\\Program.cs",
+              "RelativeToolTip": "vending_machine\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T18:27:00.069Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

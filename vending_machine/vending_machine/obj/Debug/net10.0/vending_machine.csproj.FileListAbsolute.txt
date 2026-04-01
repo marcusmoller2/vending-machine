@@ -1,0 +1,14 @@
+C:\Users\Marcus\Desktop\vending_machine\vending_machine\bin\Debug\net10.0\vending_machine.exe
+C:\Users\Marcus\Desktop\vending_machine\vending_machine\bin\Debug\net10.0\vending_machine.deps.json
+C:\Users\Marcus\Desktop\vending_machine\vending_machine\bin\Debug\net10.0\vending_machine.runtimeconfig.json
+C:\Users\Marcus\Desktop\vending_machine\vending_machine\bin\Debug\net10.0\vending_machine.dll
+C:\Users\Marcus\Desktop\vending_machine\vending_machine\bin\Debug\net10.0\vending_machine.pdb
+C:\Users\Marcus\Desktop\vending_machine\vending_machine\obj\Debug\net10.0\vending_machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus\Desktop\vending_machine\vending_machine\obj\Debug\net10.0\vending_machine.AssemblyInfoInputs.cache
+C:\Users\Marcus\Desktop\vending_machine\vending_machine\obj\Debug\net10.0\vending_machine.AssemblyInfo.cs
+C:\Users\Marcus\Desktop\vending_machine\vending_machine\obj\Debug\net10.0\vending_machine.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\Desktop\vending_machine\vending_machine\obj\Debug\net10.0\vending_machine.dll
+C:\Users\Marcus\Desktop\vending_machine\vending_machine\obj\Debug\net10.0\refint\vending_machine.dll
+C:\Users\Marcus\Desktop\vending_machine\vending_machine\obj\Debug\net10.0\vending_machine.pdb
+C:\Users\Marcus\Desktop\vending_machine\vending_machine\obj\Debug\net10.0\vending_machine.genruntimeconfig.cache
+C:\Users\Marcus\Desktop\vending_machine\vending_machine\obj\Debug\net10.0\ref\vending_machine.dll
