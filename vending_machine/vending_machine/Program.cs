@@ -10,7 +10,8 @@ class Program
 
         while (running)
         {
-            Console.WriteLine("\n--- VARUAUTOMAT ---");
+            //produkter
+            Console.WriteLine("\n--- marcus vending machine ---");
             Console.WriteLine("1. Stoppa in pengar");
             Console.WriteLine("2. Visa produkter");
             Console.WriteLine("3. Köp produkt");
@@ -19,6 +20,7 @@ class Program
 
             string choice = Console.ReadLine();
 
+            //switch case beroende på vilket val du gör
             switch (choice)
             {
                 case "1":

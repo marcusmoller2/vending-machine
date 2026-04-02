@@ -11,6 +11,7 @@ namespace vending_machine
 
         public VendingMachine()
         {
+            //skapar lista av produkter
             Products = new List<Product>();
             MoneyPool = 0;
 
@@ -23,6 +24,8 @@ namespace vending_machine
             Products.Add(new Snack("Nuts", 10));
         }
 
+
+        // sätter in pengar till ditt saldo
         public void InsertMoney(int amount)
         {
             if (amount == 5 || amount == 10 || amount == 20 || amount == 50)
@@ -36,6 +39,7 @@ namespace vending_machine
             }
         }
 
+        //visar produkterna
         public void ShowProducts()
         {
             Console.WriteLine("\nProdukter:");
@@ -45,6 +49,7 @@ namespace vending_machine
             }
         }
 
+        //tittar så att valt nummer är ett möjligt val i listan
         public void Purchase(int productNumber)
         {
             if (productNumber < 1 || productNumber > Products.Count)
@@ -55,6 +60,7 @@ namespace vending_machine
 
             Product product = Products[productNumber - 1];
 
+            //köper och använder vald produkt om du har råd
             if (MoneyPool >= product.Price)
             {
                 MoneyPool -= product.Price;
@@ -67,6 +73,7 @@ namespace vending_machine
             }
         }
 
+        //ger tillbaka dina pengar och avslutar
         public void EndTransaction()
         {
             Console.WriteLine($"Du får tillbaka {MoneyPool} kr");

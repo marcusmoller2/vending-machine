@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marcus.moller2\\Documents\\GitHub\\vending-machine\\vending_machine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CCC613-C5D8-A47E-2E50-6A262495F4EF}|vending_machine\\vending_machine.csproj|c:\\users\\marcus.moller2\\documents\\github\\vending-machine\\vending_machine\\vending_machine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CCC613-C5D8-A47E-2E50-6A262495F4EF}|vending_machine\\vending_machine.csproj|solutionrelative:vending_machine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CCC613-C5D8-A47E-2E50-6A262495F4EF}|vending_machine\\vending_machine.csproj|c:\\users\\marcus.moller2\\documents\\github\\vending-machine\\vending_machine\\vending_machine\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CCC613-C5D8-A47E-2E50-6A262495F4EF}|vending_machine\\vending_machine.csproj|solutionrelative:vending_machine\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CCC613-C5D8-A47E-2E50-6A262495F4EF}|vending_machine\\vending_machine.csproj|c:\\users\\marcus.moller2\\documents\\github\\vending-machine\\vending_machine\\vending_machine\\vendingmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CCC613-C5D8-A47E-2E50-6A262495F4EF}|vending_machine\\vending_machine.csproj|solutionrelative:vending_machine\\vendingmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VendingMachine.cs",
+              "DocumentMoniker": "C:\\Users\\marcus.moller2\\Documents\\GitHub\\vending-machine\\vending_machine\\vending_machine\\VendingMachine.cs",
+              "RelativeDocumentMoniker": "vending_machine\\VendingMachine.cs",
+              "ToolTip": "C:\\Users\\marcus.moller2\\Documents\\GitHub\\vending-machine\\vending_machine\\vending_machine\\VendingMachine.cs",
+              "RelativeToolTip": "vending_machine\\VendingMachine.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T06:15:00.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marcus.moller2\\Documents\\GitHub\\vending-machine\\vending_machine\\vending_machine\\Program.cs",
+              "RelativeDocumentMoniker": "vending_machine\\Program.cs",
+              "ToolTip": "C:\\Users\\marcus.moller2\\Documents\\GitHub\\vending-machine\\vending_machine\\vending_machine\\Program.cs",
+              "RelativeToolTip": "vending_machine\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAewDEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T06:13:10.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\marcus.moller2\\Documents\\GitHub\\vending-machine\\vending_machine\\vending_machine\\Product.cs",
+              "RelativeDocumentMoniker": "vending_machine\\Product.cs",
+              "ToolTip": "C:\\Users\\marcus.moller2\\Documents\\GitHub\\vending-machine\\vending_machine\\vending_machine\\Product.cs",
+              "RelativeToolTip": "vending_machine\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T06:13:04.088Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
